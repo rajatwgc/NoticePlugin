@@ -21,7 +21,7 @@ Notice includes a contact form, articles rating, analytics and a search bar. Itâ
 
 = Docs and support =
 
-You can find detailed information about Notice FAQ on [notice.studio](https://notice.studio/). When you can't find the answer to your question on the [documentation](https://notice.studio/documentation), check the [support forum](https://wordpress.org/support/plugin/noticefaq/) on WordPress.org. If you can't locate any topics that pertain to your particular issue, post a new topic for it.
+You can find detailed information about Notice FAQ on [notice.studio](https://notice.studio). When you can't find the answer to your question on the [documentation](https://notice.studio), check the [support forum](https://wordpress.org/support/plugin/noticefaq/) on WordPress.org. If you can't locate any topics that pertain to your particular issue, post a new topic for it.
 
 
 = Privacy notices =
@@ -37,7 +37,7 @@ If you activate certain features in this plugin, the contact form submitter's pe
 
 = Translations =
 
-You can [translate Notice FAQ](https://notice.studio/translating-noticefaq/) on [translate.wordpress.org](https://translate.wordpress.org/projects/wp-plugins/noticefaq).
+You can [translate Notice FAQ](https://notice.studio) on [translate.wordpress.org](https://translate.wordpress.org/projects/wp-plugins/noticefaq).
 
 == Installation ==
 
@@ -46,14 +46,14 @@ You can [translate Notice FAQ](https://notice.studio/translating-noticefaq/) on 
 
 You will find **Notice FAQ** menu in your WordPress admin screen.
 
-For basic usage, have a look at the [plugin's website](https://notice.studio/).
+For basic usage, have a look at the [plugin's website](https://notice.studio).
 
 == Frequently Asked Questions ==
 
 Do you have questions or issues with Notice FAQ? Use these support channels appropriately.
 
-1. [Docs](https://notice.studio/documentation/)
-2. [FAQ](https://notice.studio/)
+1. [Docs](https://notice.studio)
+2. [FAQ](https://notice.studio)
 3. [Support forum](https://wordpress.org/support/plugin/noticefaq/)
 
 You can also contact us at contact@notice.studio.
