@@ -1,6 +1,6 @@
 === Notice FAQ ===
 Contributors: WGC
-Donate link: https://notice.studio/donate
+Donate link: https://notice.studio
 Tags: notice, faq, documentation, blog, multilingual
 Requires at least: 4.9
 Requires PHP: 5.6
@@ -53,8 +53,8 @@ For basic usage, have a look at the [plugin's website](https://notice.studio/).
 Do you have questions or issues with Notice FAQ? Use these support channels appropriately.
 
 1. [Docs](https://notice.studio/documentation/)
-1. [FAQ](https://notice.studio/)
-1. [Support forum](https://wordpress.org/support/plugin/noticefaq/)
+2. [FAQ](https://notice.studio/)
+3. [Support forum](https://wordpress.org/support/plugin/noticefaq/)
 
 You can also contact us at contact@notice.studio.
 
@@ -66,6 +66,7 @@ You can also contact us at contact@notice.studio.
 
 3. screenshot-3.png
 
+4. screenshot-4.png
 
 == Changelog ==
 
