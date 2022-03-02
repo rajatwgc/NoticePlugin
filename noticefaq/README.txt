@@ -33,11 +33,7 @@ With the default configuration, this plugin, in itself, does not:
 * send any data to external servers;
 * use cookies.
 
-If you activate certain features in this plugin, the contact form submitter's personal data, including their IP address, may be sent to the service provider.
-
-= Translations =
-
-You can [translate Notice FAQ](https://notice.studio) on [translate.wordpress.org](https://translate.wordpress.org/projects/wp-plugins/noticefaq).
+If you activate certain features in this plugin, the contact form submitter's personal data including their IP address may be sent to the service provider.
 
 == Installation ==
 
