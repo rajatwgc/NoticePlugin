@@ -18,7 +18,6 @@
  *
  * @package    Noticefaq
  * @subpackage Noticefaq/admin
- * @author     AuthNAme <abc@gmail.com>
  */
 class Noticefaq_Admin {
 
