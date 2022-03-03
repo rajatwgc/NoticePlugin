@@ -19,7 +19,6 @@
  *
  * @package    Noticefaq
  * @subpackage Noticefaq/includes
- * @author     AuthNAme <abc@gmail.com>
  */
 class Noticefaq_Loader {
 
