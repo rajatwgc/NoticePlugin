@@ -18,7 +18,6 @@
  * @since      1.0.0
  * @package    Noticefaq
  * @subpackage Noticefaq/includes
- * @author     AuthNAme <abc@gmail.com>
  */
 class Noticefaq_Deactivator {
 
