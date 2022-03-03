@@ -38,7 +38,7 @@ If you activate certain features in this plugin, the contact form submitter's pe
 == Installation ==
 
 1. Upload the entire `noticefaq` folder to the `/wp-content/plugins/` directory.
-1. Activate the plugin through the **Plugins** screen (**Plugins > Installed Plugins**).
+2. Activate the plugin through the **Plugins** screen (**Plugins > Installed Plugins**).
 
 You will find **Notice FAQ** menu in your WordPress admin screen.
 
