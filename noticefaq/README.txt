@@ -68,8 +68,7 @@ You can contact us for any issue or question at contact@notice.studio.
 
 == Changelog ==
 
-For more information, see [Releases](https://notice.studio).
-
+Releases are published on our [blog](https://notice.studio/blog?article=notice-release-version-1-is-here-a6be)
 
 = 1.0.0 =
 * Supports Shortcode noticefaq for FAQ, Documents, Blogs
