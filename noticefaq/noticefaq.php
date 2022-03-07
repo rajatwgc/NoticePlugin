@@ -17,7 +17,7 @@
  * Plugin URI:        https://notice.studio
  * Description:       Display Faq, Document and Blog created in Notice.studio.
  * Version:           1.0.0
- * Author:            WGC
+ * Author:            Raj WGC
  * Author URI:        https://notice.studio
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
