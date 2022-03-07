@@ -63,6 +63,9 @@ You can contact us for any issue or question at contact@notice.studio.
 
 4. screenshot-4.png
 
+5. screenshot-5.png
+
+
 == Changelog ==
 
 For more information, see [Releases](https://notice.studio).
