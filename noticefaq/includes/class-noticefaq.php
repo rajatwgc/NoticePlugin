@@ -95,6 +95,7 @@ class Noticefaq {
 	<div class="outerCont">
 	<h3>👋 Welcome to Notice FAQ / Documentation / Blog Dashboard.</h3>
 	<br>
+	<img src="https://storage.googleapis.com/public-ressources-notice2/images/logo/Notice%20og.png" width="100%" alt="" />
 	<ul>
 	<li><p>Create your own FAQ, Documentation or Blog at <a href="https://notice.studio"  target="_blank">Notice.studio</a></p></li>
 	<li><p>Your newly created project ID is available in <b>Deploy</b> section 🚀</p></li>
