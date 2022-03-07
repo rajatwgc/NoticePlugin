@@ -42,7 +42,7 @@ If you activate certain features in this plugin, the contact form submitter's pe
 
 You will find **Notice FAQ** menu in your WordPress admin screen.
 
-For basic usage, have a look at the [plugin's website](https://integrations.l.notice.studio/?article=wordpress-c2f5).
+For basic usage, have a look at the [plugin's documentation](https://notice.studio/documentation).
 
 == Frequently Asked Questions ==
 
