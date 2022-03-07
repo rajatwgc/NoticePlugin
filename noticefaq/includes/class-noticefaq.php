@@ -93,12 +93,12 @@ class Noticefaq {
 	public function noticefaq_init(){
     echo '
 	<div class="outerCont">
-	<h3>Welcome to Notice FAQ Dashboard.</h3>
+	<h3>👋 Welcome to Notice FAQ / Documentation / Blog Dashboard.</h3>
 	<br>
 	<ul>
-	<li><p>Create your own FAQ, Documents or Blog at <a href="https://notice.studio"  target="_blank">Notice.studio</a></p></li>
-	<li><p>Your newly created project ID is available in Settings => Hosting =>Domain name box field</p></li>
-	<li><p>Display all your creations on your website using below shortcode:</p></li>
+	<li><p>Create your own FAQ, Documentation or Blog at <a href="https://notice.studio"  target="_blank">Notice.studio</a></p></li>
+	<li><p>Your newly created project ID is available in <b>Deploy</b> section 🚀</p></li>
+	<li><p>Display all your creations on your website using the below shortcode:</p></li>
 	<li><p>[noticefaq projectid="your-project-id"]</p></li>
 	</ul>
 	<br>
