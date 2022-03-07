@@ -1,5 +1,5 @@
 === Notice FAQ ===
-Contributors: WGC
+Contributors: rajatwgc
 Donate link: https://www.patreon.com/notice
 Tags: notice, faq, documentation, blog, multilingual
 Requires at least: 4.9
