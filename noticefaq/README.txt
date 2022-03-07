@@ -1,6 +1,6 @@
 === Notice FAQ ===
 Contributors: WGC
-Donate link: https://notice.studio
+Website: https://notice.studio
 Tags: notice, faq, documentation, blog, multilingual
 Requires at least: 4.9
 Requires PHP: 5.6
@@ -42,14 +42,14 @@ If you activate certain features in this plugin, the contact form submitter's pe
 
 You will find **Notice FAQ** menu in your WordPress admin screen.
 
-For basic usage, have a look at the [plugin's website](https://notice.studio).
+For basic usage, have a look at the [plugin's website](https://integrations.l.notice.studio/?article=wordpress-c2f5).
 
 == Frequently Asked Questions ==
 
 Do you have questions or issues with Notice FAQ? Use these support channels appropriately.
 
-1. [Docs](https://notice.studio)
-2. [FAQ](https://notice.studio)
+1. [General documentation](https://notice.studio/documentation)
+2. [Wordpress documentation](https://integrations.l.notice.studio/?article=wordpress-c2f5)
 3. [Support forum](https://wordpress.org/support/plugin/noticefaq/)
 
 You can also contact us at contact@notice.studio.
