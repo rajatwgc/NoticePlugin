@@ -50,9 +50,8 @@ Do you have questions or issues with Notice FAQ? Use these support channels appr
 
 1. [General documentation](https://notice.studio/documentation)
 2. [Wordpress documentation](https://integrations.l.notice.studio/?article=wordpress-c2f5)
-3. [Support forum](https://wordpress.org/support/plugin/noticefaq/)
 
-You can also contact us at contact@notice.studio.
+You can contact us for any issue or question at contact@notice.studio.
 
 == Screenshots ==
 
