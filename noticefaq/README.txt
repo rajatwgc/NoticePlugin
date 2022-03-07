@@ -1,6 +1,6 @@
 === Notice FAQ ===
 Contributors: WGC
-Website: https://notice.studio
+Donate link: https://www.patreon.com/notice
 Tags: notice, faq, documentation, blog, multilingual
 Requires at least: 4.9
 Requires PHP: 5.6
