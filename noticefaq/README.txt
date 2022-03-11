@@ -19,6 +19,9 @@ Notice includes a contact form, articles rating, analytics and a search bar. Itâ
 
 *By displaying Rich Snippets thanks to structured data, Notice makes your content stand out and rank higher than classic content on search engines.
 
+Notice FAQ uses notice.studio 3rd party services such as [stylesheet](https://bundle.notice.studio/index.css) and [javascript](https://bundle.notice.studio/index.js) to render the project on your website based on [terms of use](https://notice.studio/terms-of-use/). 
+
+
 = Docs and support =
 
 You can find detailed information about Notice FAQ on [notice.studio](https://notice.studio). When you can't find the answer to your question on the [documentation](https://notice.studio), check the [support forum](https://wordpress.org/support/plugin/noticefaq/) on WordPress.org. If you can't locate any topics that pertain to your particular issue, post a new topic for it.
@@ -34,6 +37,7 @@ With the default configuration, this plugin, in itself, does not:
 * use cookies.
 
 If you activate certain features in this plugin, the contact form submitter's personal data including their IP address may be sent to the service provider.
+* Projects, ContactForm ([notice.studio/privacy](https://notice.studio/privacy/))
 
 == Installation ==
 
